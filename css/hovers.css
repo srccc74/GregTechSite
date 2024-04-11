@@ -1,0 +1,107 @@
+.yellow-hover:hover{
+    box-shadow: rgb(255, 229, 84) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.yellow-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.gray-hover:hover{
+    box-shadow: rgb(120, 120, 120) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.gray-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.aqua-hover:hover{
+    box-shadow: rgb(82, 241, 255) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.aqua-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.orange-hover:hover{
+    box-shadow: rgb(209, 118, 15) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.orange-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.purple-hover:hover{
+    box-shadow: rgb(171, 4, 155) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.purple-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.blue-hover:hover{
+    box-shadow: rgb(27, 2, 139) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.blue-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.pink-hover:hover{
+    box-shadow: rgb(255, 71, 237) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.pink-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.white-hover:hover{
+    box-shadow: rgb(244, 244, 244) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.white-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
+
+.dark-aqua-hover:hover{
+    box-shadow: rgb(6, 63, 107) 0px 20px 50px -10px;
+    transform: scale(1.05);
+    transition: 200ms transform;
+
+}
+
+.dark-aqua-hover:not(:hover) {
+    transform: scale(1);
+    box-shadow: none;
+}
