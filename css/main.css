@@ -238,11 +238,14 @@ h4{
     border-radius: 10px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 576px) {
     h1{
         font-size: 2rem;
     }
     h2{
         font-size: 1.5rem;
+    }
+    .container{
+        max-width: 400px;
     }
 }
